@@ -224,6 +224,7 @@ sub TestCases {
 						# @QCannon_Fuel = (94111,97286,170973,90476,0); # 12/20/2010
 						@QCannon_Fuel = (112000,114000,189000,107000,43000); # 12/20/2010
 						# @QCannon_Fuel = (150000,150000,250000,150000,0); # 12/20/2010
+						# @QCannon_Fuel = (161000,174000,265000,168000,48000) # 12/29/2010
 						$TotalFuelUsed = 0;
 						$QCannon_Sector[0] = $QCannonTest[0];
 						$QCannon_Sector[1] = $QCannonTest[1];
